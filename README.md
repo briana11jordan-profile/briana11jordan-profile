@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 --> Fordham University Alumni attended the Gabelli School of Business
 --> SQL, Tableau, Power BI, and Excel
 --> I am a business owner, mother and L.M.T/ C.P.T
---> My passion is health adnd wellness and learning how to become my best self mentally, physically and spiritually 
-I love to cook and anything that gives me butterflies in my belly. Currently I am a data-driven Business Analyst with a background in financial services, tax analysis, and operational problem-solving, complemented by advanced training in Business Intelligence and Data Analytics.Passionate about transforming data into actionable insights that drive efficiency, profitability, and sustainable growth.
+--> My passion is health adnd wellness and learning how to become my best self mentally, physically and spiritually. 
+I love to cook and anything that gives me butterflies in my belly. 
+Currently I am a data-driven Business Analyst with a background in financial services, tax analysis, and operational problem-solving, complemented by advanced training in Business Intelligence and Data Analytics.Passionate about transforming data into actionable insights that drive efficiency, profitability, and sustainable growth.
